@@ -1,6 +1,8 @@
 # startup_namer
 
-A new Flutter project.
+Projeto desenvolvido seguindo o codeLabs da google para Flutter
+Link do codelabs: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0
+
 
 ## Getting Started
 
